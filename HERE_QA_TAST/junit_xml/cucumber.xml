@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="314.609949">
+<testcase classname="Here QA Task Documentatin Test" name="Here Documentation Test" time="314.609949">
+<system-out><![CDATA[Given user is already launch application....................................passed
+When click on documentation tab.............................................passed
+When fetch all internal links in documentation section......................passed
+Then iterate over the all internal links....................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
